@@ -53,3 +53,15 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+*.db
+NDKTest/.vs/
+NDKTest/ARM/Debug/libNDKTest.so
+NDKTest/ARM/
+NDKTest/ARM64/
+NDKTest/NDKTest/NDKTest.NativeActivity/ARM/
+NDKTest/NDKTest/NDKTest.NativeActivity/ARM64/
+NDKTest/NDKTest/NDKTest.NativeActivity/x64/
+NDKTest/NDKTest/NDKTest.NativeActivity/x86/
+NDKTest/NDKTest/NDKTest.Packaging/
+NDKTest/x64/
+NDKTest/x86/
